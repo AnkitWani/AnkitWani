@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ankit Wani</h1>
 <h3 align="center">Artificial Intelligence Enthusiastic</h3>
 
+- 🌟 I love to read - epic fantacy, non-fiction, poetry...I read it
+
+- 🏃  I pretend to like running (_It's working, I still go out there_)
+
 - 🌱 I’m currently learning **CARLA, Sensor Fusion, Kalman Filters,3D Point Cloud Object Detection**
 
 - 👯 I’m looking to collaborate on **Generative AI, Machine Learning, Computer Vision and Sensor fusion**
