@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Generative AI, Machine Learning, Computer Vision and Sensor fusion**
 
-- 🤝 I’m looking for help with **LLM**
-
 - 📝 I regularly write articles on [Autonomous Vehicles in AUTOCAR Professional India](Autonomous Vehicles in AUTOCAR Professional India)
 
 - 💬 Ask me about **Neural Networks, Data Science, Perception, Localization, Mapping, and ADAS(Autonomous Driving Assistant Systems))**
