@@ -73,14 +73,19 @@
 
 <br><br>
 
-- :metal: I am a `Data Scientist` at Eviden(https://eviden.com/).
+- :metal: I am a `Data Scientist` at FEV (https://www.fev.com/en/about-fev/).
+- 🌟 I love to read - epic fantacy, non-fiction, poetry...I read it
+- 🌱 I’m currently learning **CARLA, Sensor Fusion, Kalman Filters,3D Point Cloud Object Detection**
 - :trophy: I love learning new techs and using new tools.
 - :technologist: I love using data algorithms as a solution for every `Problem`.
 - :student: I’m currently learning `Generative AI` and `DevOps`.
 - :nerd_face: Always `learning new things`.
 - :thinking: this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
-- :yum: I love food and food loves me too.</b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+- 👯 I’m looking to collaborate on **Generative AI, Machine Learning, Computer Vision and Sensor fusion**
+- 📝 I regularly write articles on [Autonomous Vehicles in AUTOCAR Professional India](Autonomous Vehicles in AUTOCAR Professional India)
+- 💬 Ask me about **Neural Networks, Data Science, Perception, Localization, Mapping, and ADAS(Autonomous Driving Assistant Systems))**
+- :yum: If your are looking for sweet-tooth, your search ends here.</b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
 
 <br>
