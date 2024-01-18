@@ -44,7 +44,7 @@
 
 
 
-<h1 align="center">Hi , I'm Harshada Pande <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Ankit Wani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist+@Eviden;AI+Enthusiastic;love+algorithms+&+neurons;Always+learning+new+things"></a>
 </p>
@@ -54,7 +54,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=harshadap30&label=Profile%20views&color=0047AB&style=plastic?" alt="harshadap30" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=harshadap30&label=Profile%20views&color=0047AB&style=plastic?" alt="AnkitWani" height=25px, width=160px/> 
 	<!---
 		<a href = "https://commits.top/egypt.html" target="_blank">
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
