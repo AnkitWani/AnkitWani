@@ -46,7 +46,7 @@
 
 <h1 align="center">Hi , I'm Ankit Wani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist+@Eviden;AI+Enthusiastic;love+algorithms+&+neurons;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist+@FEV;AI+Enthusiastic;love+algorithms+&+neurons;Always+learning+new+things"></a>
 </p>
 </p>
 
@@ -54,7 +54,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=harshadap30&label=Profile%20views&color=0047AB&style=plastic?" alt="AnkitWani" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=AnkitWani&label=Profile%20views&color=0047AB&style=plastic?" alt="AnkitWani" height=25px, width=160px/> 
 	<!---
 		<a href = "https://commits.top/egypt.html" target="_blank">
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
@@ -93,9 +93,9 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:harshadap30@gmail.com.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/harshadap30"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/harshada-pande-1667381a2/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:Ankitwani4u@gmail.com.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/AnkitWani"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ankit-wani"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </p>
 
@@ -201,8 +201,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="harshada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshadap30&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshadap30&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="harshadap30" height="230px"/>
+	    <img alt="Ankit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnkitWani&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkitWani&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AnkitWani" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -213,7 +213,7 @@
 
 ----
 	
-[![Harshada's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harshadap30&theme=github	)](https://github.com/harshadap30/github-readme-activity-graph)
+[![Harshada's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnkitWani&theme=github	)](https://github.com/AnkitWani/github-readme-activity-graph)
 
  
 </details>
@@ -222,7 +222,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshadap30&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="harshadap30" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnkitWani&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="AnkitWani" /></a> </p>
 
 [![@Harshada's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
 	
