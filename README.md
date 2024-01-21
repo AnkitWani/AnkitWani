@@ -84,8 +84,8 @@
 - 📝 I regularly write articles on [Autonomous Vehicles in AUTOCAR Professional India](Autonomous Vehicles in AUTOCAR Professional India)
 - 💬 Ask me about **Neural Networks, Data Science, Perception, Localization, Mapping, and ADAS(Autonomous Driving Assistant Systems)**
 - :yum: If your are looking for sweet-tooth, your search ends here.</b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-- :thinking: this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: this is [MY RESUME](https://ankitwani.github.io/files/Ankit_18_Jan_2024__1_%20(1).pdf).
+- :boom: You can visit [MY WEBSITE](https://ankitwani.github.io/).
 
 <br>
 
